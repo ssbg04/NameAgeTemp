@@ -1,0 +1,14 @@
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\bin\Debug\net8.0\BSIT1C_GROUP3.exe
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\bin\Debug\net8.0\BSIT1C_GROUP3.deps.json
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\bin\Debug\net8.0\BSIT1C_GROUP3.runtimeconfig.json
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\bin\Debug\net8.0\BSIT1C_GROUP3.dll
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\bin\Debug\net8.0\BSIT1C_GROUP3.pdb
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.AssemblyInfoInputs.cache
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.AssemblyInfo.cs
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.csproj.CoreCompileInputs.cache
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.dll
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\refint\BSIT1C_GROUP3.dll
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.pdb
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\BSIT1C_GROUP3.genruntimeconfig.cache
+C:\Users\crisc\projects\helloworld\BSIT1C_GROUP3\obj\Debug\net8.0\ref\BSIT1C_GROUP3.dll
