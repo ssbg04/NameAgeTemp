@@ -3,7 +3,7 @@ Console.WriteLine("-----------------------------------BSIT1C_GROUP3-------------
 Console.Write("Enter your name: ");
 string? name = Convert.ToString(Console.ReadLine());
 Console.Write("Enter your age: "); 
-string? countAge = Convert.ToString(Console.ReadLine());
+double countAge = Convert.ToDouble(Console.ReadLine());
 Console.Write("Enter your temperature: ");
 double temp = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(" ");
